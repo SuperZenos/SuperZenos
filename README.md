@@ -1,7 +1,7 @@
 # 🌈It's me!🌈
 🔴🟠🟡🟢🔵🟣🟤⚫⚪
 
-![爱你](https://cdn-icons-png.flaticon.com/512/1249/1249898.png?w=740 =20*30)
+![爱你](https://cdn-icons-png.flaticon.com/512/1249/1249898.png?w=740 40*30)
 
 <!--
 **SuperZenos/SuperZenos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
